@@ -209,8 +209,8 @@ while not reversi_fim_jogo(jogo):
 
         # para testes dá muito jeito pôr o computador a jogar com o computador
         # comentar a próxima linha e descomentar a seguinte
-        # (linha, coluna) = jogada_jogador(jogo)
-        (linha, coluna) = jogada_computador(jogo)
+        (linha, coluna) = jogada_jogador(jogo)
+        # (linha, coluna) = jogada_computador(jogo)
 
     else:
 
